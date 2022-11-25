@@ -67,6 +67,7 @@ body {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--text-color);
+    
 }
 
 
@@ -77,6 +78,9 @@ body {
     color: var(--brend-color);
 }
 
+.site-nav .nav-link.current {
+    color: var(--brend-color);
+}
  /*Hero section*/
 
 .main-section {
